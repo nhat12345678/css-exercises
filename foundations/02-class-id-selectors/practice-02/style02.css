@@ -1,0 +1,16 @@
+.odd-numbered{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: pink;
+}
+.numbered-03{
+    font-size: 24px;
+}
+#second-numbered{
+    color: blue;
+    font-size: 36px;
+}
+#fourth-numbered{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
